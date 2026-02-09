@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name        Steam "Something went wrong while displaying this content" Fix
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/zxlostsoul/steam-video-firefox-fix
 // @match       https://store.steampowered.com/*
 // @grant       none
 // @version     1.0
 // @author      ZX_Lost_Soul
 // @description Fix Steam video error on 100%+ zoom in Firefox.
+// @license     MIT
 // @run-at      document-start
 // ==/UserScript==
 
